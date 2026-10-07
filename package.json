@@ -1,7 +1,7 @@
 {
   "name": "lr7_laba",
   "version": "0.1.0",
-  "homepage": "https://ya-pikachy.github.io/LR7_OMSK",
+  "homepage": "https://howdees.github.io/LR7OMSK",
   "private": true,
   "dependencies": {
     "@2gis/mapgl": "^1.72.3",
